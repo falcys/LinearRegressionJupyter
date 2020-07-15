@@ -1,0 +1,7 @@
+cycler==0.10.0            # via matplotlib
+kiwisolver==1.2.0         # via matplotlib
+numpy==1.19.0             # via matplotlib, scikit-learn, scipy
+pyparsing==2.4.7          # via matplotlib, packaging
+scikit-learn==0.23.1      # via sklearn
+scipy==1.5.1              # via scikit-learn
+threadpoolctl==2.1.0      # via scikit-learn
